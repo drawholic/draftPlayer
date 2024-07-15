@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "qobject": "cpp",
+        "qqmlapplicationengine": "cpp",
+        "qt": "cpp",
+        "qguiapplication": "cpp",
+        "chrono": "cpp",
+        "typeinfo": "cpp",
+        "qstring": "cpp",
+        "hash_map": "cpp",
+        "bitset": "cpp",
+        "algorithm": "cpp",
+        "format": "cpp",
+        "qtqml": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
