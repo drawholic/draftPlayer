@@ -1,0 +1,30 @@
+ 
+<RCC> 
+
+    <qresource>
+        <file>qml/main.qml</file>
+    </qresource>
+    
+    <qresource>
+        <file>qml/Components/Box.qml</file>
+        <file>qml/Components/SideBar.qml</file>
+        <file>qml/Components/SideBarButton.qml</file>
+        <file>qml/Components/LikedSongs.qml</file>
+        <file>qml/Components/SearchComponent.qml</file>
+        <file>qml/Components/LikedSongsButton.qml</file> 
+        <file>qml/Components/MainLoader.qml</file>
+        <file>qml/Components/MainStack.qml</file>
+        <file>qml/Components/PagesEnum.qml</file>
+    </qresource>
+
+    <qresource>
+        <file>qml/Pages/MainPage.qml</file>
+        <file>qml/Pages/SearchPage.qml</file>
+        <file>qml/Pages/LikesPage.qml</file>
+        <file>qml/Pages/UserPage.qml</file>
+        <file>qml/Pages/LoginPage.qml</file>
+
+
+    </qresource>
+
+</RCC>
